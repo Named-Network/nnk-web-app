@@ -1,2 +1,2 @@
-# nnk-web-console
-Web Named Network Console
+# nnk-web-app
+Web Named Network App
